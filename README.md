@@ -1,4 +1,5 @@
 Data Analytics Diploma Project — BCS Koolitus
+
 Original Title (Estonian):
 
 Andmepõhine e-poe ostukäitumise ja kliendibaasi analüüs probleemide ja arenguvõimaluste tuvastamiseks müügi suurendamise eesmärgil
